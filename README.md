@@ -1,5 +1,5 @@
 # Laudivan Freire de Almeida
-IT Management | Linux Server | SysAdmin | DevOps | [linkekin.com/in/laudivan](https://www.linkedin.com/in/laudivan)
+`IT Management | Linux Server | SysAdmin | DevOps`
 
 I've been working with IT almost 26 years experiencing various positions and jobs like infrastructure, software development, system administration and IT Management. That was my calling even before my first IT job as an Excel creator and typist ;-). 
 
@@ -15,19 +15,19 @@ Faculdade de Ciências Aplicadas de Petrolina - FACAPE
 
 ## Experience
 ### Aliare | Datacoper (2021 - actual)
-Settings Egineering | PostgreSQL Database | Docker | Jenkins
+`Settings Egineering | PostgreSQL Database | Docker | Jenkins`
 
 ### Sobradinho's City Hall (2004 - actual)
-Software Development | IT Management | Education
+`Software Development | IT Management | Education`
 
 ### SENAI Lauro de Freitas (2019) and SENAI Juazeiro (2012 - 2014) 
 I taught technical level computer networks for high school students.
 
 ### Agrovale | Manadacaru Comercial (2004 - 2005)
-Software Development (Java) | Linux Servers Admin | Oracle Database
+`Software Development (Java) | Linux Servers Admin | Oracle Database`
 
 ### Juagro Comercial (2001)
-SysAdmin | Network Admin | Active Directory
+`SysAdmin | Network Admin | Active Directory`
 
 ### Other experiences
 * Development of the oficial Campus Party Brasil App (2015);
@@ -44,3 +44,6 @@ I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce 
 * Portuguese (Native)
 * English (Intermediate)
 * Hebrew (Basic)
+
+
+*[linkekin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
