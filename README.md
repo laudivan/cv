@@ -1,49 +1,72 @@
+**Curriculum Vitae**
+--
 # Laudivan Freire de Almeida
-`IT Management | Linux Server | SysAdmin | DevOps`
+*laudivan@gmail.com | [linkedin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
 
-I've been working with IT almost 26 years experiencing various positions and jobs like infrastructure, software development, system administration and IT Management. That was my calling even before my first IT job as an Excel creator and typist ;-). 
+**IT Management | Linux Server | SysAdmin | DevOps | Software development**
 
-I enjoy teamwork and challenging jobs, also I prefer to work with opensource technologies and initiatives and help people to make the World better.
+I've been working with IT almost 26 years experiencing various positions and jobs like infrastructure, software development, system administration and IT Management. That was my calling even before my first IT job as an Excel creator and typist ;-).
 
+I enjoy teamwork and challenging jobs, also I prefer to work with open-source technologies and initiatives and help people to make a better World.
 ## Education
-### IT Manament Specialist (2016 - 2017)
-Faculdade de Ciências Aplicadas de Petrolina - FACAPE
-### Masonology: History and Philosophy (2018 - 2019)
-Centro Universitário Internacional - Uninter
-### Computer Science Bachelor (2004 - 2011)
-Faculdade de Ciências Aplicadas de Petrolina - FACAPE
+- **IT Manament Specialist** - FACAPE [2016 - 2017]
 
-## Experience
-### Aliare | Datacoper (2021 - actual)
-`Settings Egineering | PostgreSQL Database | Docker | Jenkins`
+- **Masonology: History and Philosophy** | Uninter [2018 - 2019]
 
-### Sobradinho's City Hall (2004 - actual)
-`Software Development | IT Management | Education`
+- **Computer Science Bachelor** - FACAPE [2004 - 2011]
 
-### SENAI Lauro de Freitas (2019) and SENAI Juazeiro (2012 - 2014) 
-I taught technical level computer networks for high school students.
+## Work Experience
+- **Aliare | Datacoper** - Configuration Engineer [2021 - actual]
 
-### Agrovale | Manadacaru Comercial (2004 - 2005)
-`Software Development (Java) | Linux Servers Admin | Oracle Database`
+ * Implementation and management of streamlines deployment process with Jenkins;
+ * Docker implementations;
+ * Support and problem solving of PostgreSQL databases;
+ * Server Linux support.
 
-### Juagro Comercial (2001)
-`SysAdmin | Network Admin | Active Directory`
+- **Sobradinho's City Hall** - Software Developer [2004 - actual]
 
-### Other experiences
-* Development of the oficial Campus Party Brasil App (2015);
-* Development of the Oficial Campus Party Recife App (2015);
+ * Software Solutions Development;
+ * Network Administration;
+ * IT Management and IT Support Team leadership;
+ * Teaching Tech Students.
+
+- **SENAI Lauro de Freitas** (2019) and **SENAI Juazeiro** (2012 - 2014) 
+
+ * Teaching technical level computer networks for high school students.
+
+- **Agrovale | Manadacaru Comercial** - Java Developer [2004 - 2005]
+
+ * Software Development (Java); 
+ * Linux Servers Admin.
+  
+- **Juagro Comercial** - SysAdmin [2001]
+
+ * System Administration;
+ * SQL Server Administration;
+ * Active Directory.
+
+## Other experiences
+* Development of the oficial Campus Party Brasil App [2015];
+* Development of the Oficial Campus Party Recife App [2015];
 * IT Security Consultant building Linux firewall as freelancer.
 
-### Projects and Social Works
-#### Demolay Order (2016 - 2021)
-I've mentored teenagers to reach their goals and become adults that could contribute to making a better society.
-#### Project Judokan (2008 - 2020)
-I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce their self-esteem and to develop moral values. Currently a disciple continues the project at SOBRAPAZ Association.
+## Projects and Social Works
+- **Demolay Order** [2016 - 2021]
+
+ I've mentored teenagers to reach their goals and become adults that could contribute to making a better society.
+
+- **Project Judokan** [2008 - 2020]
+
+ I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce their self-esteem and to develop moral values. Currently a disciple continues the project at SOBRAPAZ Association.
+
+## Certificates
+
+- **Bootcamp Desenvolvedor Python** - IGTI [2021 - 2022]
+- **Uncomplicating Docker** - Linuxtips [2021]
+- **Bootcamp Profissional DevOps** - IGTI [2012]
 
 ## Languages
-* Portuguese (Native)
+* Brazilian Portuguese (Native)
 * English (Intermediate)
 * Hebrew (Basic)
 
-
-*[linkekin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
