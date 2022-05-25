@@ -1,5 +1,3 @@
-**Curriculum Vitae**
---
 # Laudivan Freire de Almeida
 *laudivan@gmail.com | [linkedin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
 
@@ -80,3 +78,6 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 * English (Intermediate)
 * Hebrew (Basic)
 
+---
+
+(https://github.com/laudivan/cv)
