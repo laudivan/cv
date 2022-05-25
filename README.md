@@ -1,11 +1,14 @@
 # Laudivan Freire de Almeida
 *laudivan@gmail.com | [linkedin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
+---
 
+## Summary
 **IT Management | Linux Server | SysAdmin | DevOps | Software development | IT Generalist**
 
 I've been working with IT almost 26 years experiencing various positions and jobs like infrastructure, software development, system administration and IT Management. That was my calling even before my first IT job as an Excel creator and typist ;-).
 
 I enjoy teamwork and challenging jobs, also I prefer to work with open-source technologies and initiatives and help people to make a better World.
+
 ## Education
 - **IT Manament Specialist** - FACAPE [2016 - 2017]
 
@@ -44,11 +47,10 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
  * Active Directory.
 
 ## Tech and Tools Experience
-
  * Operation Systems: Debian GNU | Ubuntu | Fedora | Red Hat | CentOS | Archlinux | Mikrotik;
  * Firewall: IPTables;
  * Web Servers: Apache | NGinx | Lighthttpd | IIS - Internet Information Services;
- * Web Development: PHP | HTML5 | CSS3 | Javascript | Bash script | PowerShell | Google Firebase;
+ * Software Development: Java | PHP | HTML5 | CSS3 | Javascript | Bash script | PowerShell | Google Firebase;
  * Database: MySQL | MariaDB | PostgreSQL | Firebird;
  * Cloud: AWS | Oracle Cloud;
  * Other Services: Zabbix | Postfix | Squid Web Cache | Webmin | Nextcloud;
@@ -68,7 +70,6 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
  I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce their self-esteem and to develop moral values. Currently a disciple continues the project at SOBRAPAZ Association.
 
 ## Certificates
-
 - **Bootcamp Desenvolvedor Python** - IGTI [2021 - 2022]
 - **Uncomplicating Docker** - Linuxtips [2021]
 - **Bootcamp Profissional DevOps** - IGTI [2012]
