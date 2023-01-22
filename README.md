@@ -76,7 +76,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 
 ## Languages
 * Brazilian Portuguese (Native)
-* English (Intermediate)
+* English (Proficent)
 * Hebrew (Basic)
 
 ---
