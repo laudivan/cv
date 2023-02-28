@@ -19,8 +19,8 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 ## Work Experience
 - **Aliare | Datacoper** - Configuration Engineer [2021 - actual]
 
- * Implementation and management of streamlines deployment process with Jenkins;
- * Docker implementations;
+ * CI/CD with Jenkins and Azure DevOPS;
+ * Docker;
  * Support and problem solving of PostgreSQL databases;
  * Server Linux support.
 
