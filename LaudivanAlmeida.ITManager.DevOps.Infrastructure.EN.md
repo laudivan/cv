@@ -1,5 +1,5 @@
 # Laudivan Freire de Almeida
-🖈 [Petrolina-PE, Brasil](https://www.google.com/maps/place/Petrolina,+PE) | 🕻 [+55 (87) 99123-2118](tel:+5587991232118) | 🖂 [contact@laudivan.eti.br](mailto:contact@laudivan.eti.br) | 🏛 [linkedin.com/in/laudivan](http://linkedin.com/in/laudivan)
+🖈 [Petrolina-PE, Brasil](https://www.google.com/maps/place/Petrolina,+PE) | 🕻 [\+55 (87) 99123-2118](tel:+5587991232118) | 🖂 [contact@laudivan.eti.br](mailto:contact@laudivan.eti.br) | 🏛 [linkedin.com/in/laudivan](http://linkedin.com/in/laudivan)
 
 **IT Manager | DevOps Engineer | Infrastructure Engineer**
 
