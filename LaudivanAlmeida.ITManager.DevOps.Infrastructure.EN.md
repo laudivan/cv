@@ -17,7 +17,8 @@ Project Management - Leadership - DevOps - Linux - Infrastructure - PostgreSQL -
 ### IT Manager | Software Developer - Sobradinho City Hall 
 **Period:** 01/2005 to actual
 - Creation and maintenance of software solutions and development of web applications, optimizing internal processes and ensuring greater accessibility and efficiency in the services provided to the community; 
-- Founder of the City Hall IT Department, leading the technical support team, defining priorities, solving critical problems and promoting a collaborative and results-oriented environment; - Responsible for planning, executing and monitoring Pluri's Annual Plan (2013-2016), ensuring alignment with the city's strategic objectives and optimizing resources to achieve administrative and technological goals. 
+- Founder of the City Hall IT Department, leading the technical support team, defining priorities, solving critical problems and promoting a collaborative and results-oriented environment; 
+- Responsible for planning, executing and monitoring Pluri's Annual Plan (2013-2016), ensuring alignment with the city's strategic objectives and optimizing resources to achieve administrative and technological goals. 
 ### Infrastructure Engineer - Aliare 
 **Period:** 07/2021 to 04/2024 
 - Technical support and adjustments to PostgreSQL, including regular maintenance, performance optimization and server upgrades to ensure system stability and efficiency; 
@@ -39,4 +40,4 @@ Project Management - Leadership - DevOps - Linux - Infrastructure - PostgreSQL -
 - Leadership Pipeline/Code of Ethics and Conduct - Aliare 
 ## Languages: 
 - Portuguese - Native 
-- English - Advanced
+- English - Advanced (C1+)
