@@ -17,7 +17,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 - **Computer Science Bachelor** - FACAPE [2004 - 2011]
 
 ## Work Experience
-- **Aliare | Datacoper** - Configuration Engineer [2021 - actual]
+- **Aliare | Datacoper** - Configuration Engineer [2021 - 2024]
 
  * CI/CD with Jenkins and Azure DevOPS;
  * Docker;
@@ -62,7 +62,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 * IT Security Consultant building Linux firewall as freelancer.
 
 ## Projects and Social Works
-- **Demolay Order** [2016 - 2021]
+- **Demolay Order** [2016 - ]
 
  I've mentored teenagers to reach their goals and become adults that could contribute to making a better society.
 
