@@ -1,5 +1,5 @@
 # Laudivan Freire de Almeida
-*laudivan@gmail.com | [linkedin.com/in/laudivan](https://www.linkedin.com/in/laudivan)*
+*lau@laudivan.eti.br*
 ---
 
 ## Summary
