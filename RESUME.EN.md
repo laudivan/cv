@@ -1,5 +1,5 @@
 # Laudivan Freire de Almeida
-*lau@laudivan.eti.br*
+*almeida@laudivan.eti.br*
 ---
 
 ## Summary
@@ -17,12 +17,9 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 - **Computer Science Bachelor** - FACAPE [2004 - 2011]
 
 ## Work Experience
-- **Aliare | Datacoper** - Configuration Engineer [2021 - 2024]
-
- * CI/CD with Jenkins and Azure DevOPS;
- * Docker;
- * Support and problem solving of PostgreSQL databases;
- * Server Linux support.
+- **Uninassau - Petrolina** - Graduation Teacher [2026 - atual]
+  * Software Development and Analisys Teaching
+    * UX/UI Design    
 
 - **Sobradinho's City Hall** - Software Developer [2004 - actual]
 
@@ -30,6 +27,13 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
  * Network Administration;
  * IT Management and IT Support Team leadership;
  * Teaching Tech Students.
+
+- **Aliare | Datacoper** - Configuration Engineer [2021 - 2024]
+
+ * CI/CD with Jenkins and Azure DevOPS;
+ * Docker;
+ * Support and problem solving of PostgreSQL databases;
+ * Server Linux support.
 
 - **SENAI Lauro de Freitas** (2019) and **SENAI Juazeiro** (2012 - 2014) 
 
@@ -59,6 +63,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 ## Other experiences
 * Development of the oficial Campus Party Brasil App [2015];
 * Development of the Oficial Campus Party Recife App [2015];
+* Custom Software Development;
 * IT Security Consultant building Linux firewall as freelancer.
 
 ## Projects and Social Works
@@ -68,7 +73,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 
 - **Project Judokan** [2008 - 2020]
 
- I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce their self-esteem and to develop moral values. Currently a disciple continues the project at SOBRAPAZ Association.
+ I taught Jigoro Kano's Judo for children and teenagers, helping them to enforce their self-esteem and to develop moral values.
 
 ## Certificates
 - **Bootcamp Desenvolvedor Python** - IGTI [2021 - 2022]
