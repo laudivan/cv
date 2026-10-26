@@ -17,7 +17,7 @@ I enjoy teamwork and challenging jobs, also I prefer to work with open-source te
 - **Computer Science Bachelor** - FACAPE [2004 - 2011]
 
 ## Work Experience
-- **Uninassau - Petrolina** - Graduation Teacher [2026 - atual]
+- **Uninassau - Petrolina** - Graduation Teacher [2026]
   * Software Development and Analisys Teaching
     * UX/UI Design    
 
